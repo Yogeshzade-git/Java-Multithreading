@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a6fe599-734d-4e61-bcff-7089672c160f" name="Changes" comment="one jv file is deleted">
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.2.0.0.20220705-1221.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/images/2c8116da-44cf-4c0f-8a9a-fc4ec160a112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/images/bf3724e4-c423-4173-b2db-23d37b38813f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/ECommerceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/config/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/config/ContentConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/config/UserInfoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/controllers/AddressController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/controllers/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/controllers/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/controllers/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/entites/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/exceptions/APIException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/exceptions/MyGlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/exceptions/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/APIResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/AddressDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/CartDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/CartItemDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/CategoryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/CategoryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/JWTAuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/JWTAuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/LoginCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/OrderDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/OrderItemDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/OrderResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/PaymentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/ProductResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/payloads/UserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/AddressRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/CartItemRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/CartRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/CategoryRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/OrderItemRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/OrderRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/PaymentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/ProductRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/RoleRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/repositories/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/security/JWTFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/security/JWTUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/AddressService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/AddressServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/CartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/java/com/app/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/ECommerceApplication/src/test/java/com/app/ECommerceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/E-Commerce-Application-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/EasyKart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/src/main/java/com/yogeshzade/SpringMailSender/Config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/src/main/java/com/yogeshzade/SpringMailSender/Controller/MyMailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/src/main/java/com/yogeshzade/SpringMailSender/DTO/EmailRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/src/main/java/com/yogeshzade/SpringMailSender/Service/MailSenderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/src/main/java/com/yogeshzade/SpringMailSender/SpringMailSenderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/SpringMailSender/src/test/java/com/yogeshzade/SpringMailSender/SpringMailSenderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot Projects/Webex.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internship-SatmatTechnologies/SATMAT-Internship" beforeDir="false" afterPath="$PROJECT_DIR$/../Internship-SatmatTechnologies/SATMAT-Internship" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/JAVA---DSA" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA/JAVA---DSA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java DSA - Apna College" beforeDir="false" afterPath="$PROJECT_DIR$/../Java DSA - Apna College" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio Website/portfolioweb" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio Website/portfolioweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../REACT/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../REACT/my-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot Projects/Spring-AI_Joke_Teller/springAI-Joke-Teller/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot Projects/Spring-AI_Joke_Teller/springAI-Joke-Teller/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Striver-DSA" beforeDir="false" afterPath="$PROJECT_DIR$/../Striver-DSA" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2n3P0cHbRPtpePBR5k187cFos7o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ThreadWithRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Codes/Java Multithreading&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ThreadWithRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadWithRunnable" />
+      <module name="Java Multithreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadWithRunnable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a6fe599-734d-4e61-bcff-7089672c160f" name="Changes" comment="" />
+      <created>1728198564164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728198564164</updated>
+    </task>
+    <task id="LOCAL-00001" summary="one jv file is deleted">
+      <option name="closed" value="true" />
+      <created>1728198632386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728198632386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="one jv file is deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="one jv file is deleted" />
+  </component>
+</project>
